@@ -157,22 +157,22 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 
 ## Home
-![](Home.pdf)
+![Home-1](https://github.com/rachita-2004/Alphatech-Hardware-Business-Insights-360/assets/156538886/d283e19f-8b7a-4968-871b-26cd8fa7717e)
 
 ## Finance view
-![](Finance View.pdf)
+![Finance View-1](https://github.com/rachita-2004/Alphatech-Hardware-Business-Insights-360/assets/156538886/c5504d4e-372e-4049-a39b-c6d062418e32)
 
 ## Sales view
-![](Sales View.pdf)
+![Sales View-1](https://github.com/rachita-2004/Alphatech-Hardware-Business-Insights-360/assets/156538886/0cf650b7-4424-4de6-ac39-10cc07c5653a)
 
 ## Marketing view
-![](Marketing View.pdf)
+![Marketing View-1](https://github.com/rachita-2004/Alphatech-Hardware-Business-Insights-360/assets/156538886/2d566baa-37cb-4563-b510-b0c0f7a468a2)
 
 ## Supply chain view
-![](Supply Chain View.pdf)
+![Supply Chain View-1](https://github.com/rachita-2004/Alphatech-Hardware-Business-Insights-360/assets/156538886/6fe0c6bf-47a7-49a1-a386-dc4bce123757)
 
 ## Executive View
-![](Executive View.pdf)
+![Executive View-1](https://github.com/rachita-2004/Alphatech-Hardware-Business-Insights-360/assets/156538886/15b19e2b-4b06-4470-a3d6-b5eafbac1900)
 
 
 you can find the full report file here : [Here live report link](https://app.powerbi.com/view?r=eyJrIjoiMTQ1ZjBjMDMtYjNlNC00NThhLTkxMTMtMDkyNTA2OWM4ZTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
