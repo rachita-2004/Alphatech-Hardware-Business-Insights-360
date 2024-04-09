@@ -177,7 +177,7 @@ In Home view, all the views button will be available. User will land on specific
 
 you can find the full report file here : [Here live report link](https://app.powerbi.com/view?r=eyJrIjoiMTQ1ZjBjMDMtYjNlNC00NThhLTkxMTMtMDkyNTA2OWM4ZTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-you can also find my LinkedIn post on this:[LinkedIn Post Link]()
+you can also find my LinkedIn post on this:[LinkedIn Post Link](https://www.linkedin.com/posts/rachita-jain-84a125221_powerbi-dataanalytics-businessintelligence-activity-7183515592396529664-KjJE?utm_source=share&utm_medium=member_desktop)
 ## Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
